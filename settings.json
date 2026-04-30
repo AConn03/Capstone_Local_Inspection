@@ -1,0 +1,23 @@
+{
+    "USE_GPU": true,
+    "MODEL_VERSION": "rust_crack_multilabel_fast224_2026-04-15",
+    "GRID_SIZE": 1,
+    "MIN_RUST_CONFIDENCE": 99,
+    "MIN_CRACK_CONFIDENCE": 91,
+    "DEEP_SEARCH_MODE": false,
+    "EDGE_ENHANCE_MODE": "None",
+    "RESIZE_MODE": "Stretch (Current)",
+    "USE_8X_TTA": false,
+    "SHOW_PERCENT": true,
+    "VIEW_EDGE_MAP_ONLY": false,
+    "MAX_VIDEO_FPS": 5,
+    "INPUT_DIR": "./input_images",
+    "OUTPUT_DIR": "./output_images",
+    "MODELS_DIR": "./models",
+    "FULLSCREEN_CAMERA": false,
+    "SHOW_COLORED_OVERLAY": true,
+    "APP_FULLSCREEN": true,
+    "APP_BORDERLESS": false,
+    "VIEWER_FILL_AREA": false,
+    "KEEP_ASPECT_RATIO": false
+}
